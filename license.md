@@ -259,4 +259,4 @@ not a permanent unban.
 
 ---
 
-*helldivers-2-vault · Updated 2026-10-26 · Shared under the MIT License*
+*helldivers-2-vault · Updated 2026-10-27 · Shared under the MIT License*
